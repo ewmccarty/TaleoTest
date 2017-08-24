@@ -1,0 +1,6 @@
+c:\users\lakkana.perera\documents\visual studio 2015\Projects\TestTaleo\TestTaleo\bin\Debug\TestTaleo.exe.config
+c:\users\lakkana.perera\documents\visual studio 2015\Projects\TestTaleo\TestTaleo\bin\Debug\TestTaleo.exe
+c:\users\lakkana.perera\documents\visual studio 2015\Projects\TestTaleo\TestTaleo\bin\Debug\TestTaleo.pdb
+c:\users\lakkana.perera\documents\visual studio 2015\Projects\TestTaleo\TestTaleo\obj\Debug\TestTaleo.exe
+c:\users\lakkana.perera\documents\visual studio 2015\Projects\TestTaleo\TestTaleo\obj\Debug\TestTaleo.pdb
+C:\Users\lakkana.perera\Documents\Visual Studio 2015\Projects\TestTaleo\TestTaleo\obj\Debug\TestTaleo.csprojResolveAssemblyReference.cache

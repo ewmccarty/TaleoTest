@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TestTaleo.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TestTaleo_net_taleo_tstatkinsglobal_candidateservice_CandidateService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://tstatkinsglobal.taleo.net/enterprise/soap?ServiceName=CandidateService</Value>
+    </Setting>
+    <Setting Name="TestTaleo_net_taleo_tstatkinsglobal_requisitionservice_RequisitionService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://tstatkinsglobal.taleo.net/enterprise/soap?ServiceName=RequisitionService</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
